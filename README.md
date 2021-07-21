@@ -43,7 +43,7 @@ The app is having mainly three sections:
 
     The MIT License (MIT)
     
-    Copyright (c) 2020 Akash Singh
+    Copyright (c) 2021 Akash Singh
    
     
     Permission is hereby granted, free of charge, to any person obtaining a copy

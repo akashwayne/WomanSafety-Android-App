@@ -37,18 +37,14 @@ The app is having mainly three sections:
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 
-## Download App
-[Click here to Download the app](https://androidfilehost.com/?fid=4349826312261824007)
-<p align="center">
-  <h3>Proudly :muscle: made in <b><a href="https://kotlinlang.org/">Kotlin</a></b></h3>
-</p>
 
 ## License
 -------
 
     The MIT License (MIT)
     
-    Copyright (c) 2020 Shubham Patil
+    Copyright (c) 2020 Akash Singh
+   
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
